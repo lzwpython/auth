@@ -1,0 +1,14 @@
+allure-pytest
+jsonpath
+loguru
+pytest
+PyYAML
+requests
+xlrd
+yagmail
+PyMySQL
+pytest-rerunfailures
+paramiko
+xlwt
+mitmproxy
+markupsafe
